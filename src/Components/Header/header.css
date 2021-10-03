@@ -1,0 +1,13 @@
+.header {
+  position: fixed;
+  width: 100%;
+}
+
+.icon {
+  height: 2%;
+  width: 2%;
+}
+
+.option {
+  margin-left: 10%;
+}
