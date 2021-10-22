@@ -1,11 +1,12 @@
 .header {
   position: fixed;
   width: 100%;
+  z-index: 1;
 }
 
 .icon {
-  height: 2%;
-  width: 2%;
+  height: 2em;
+  width: 2em;
 }
 
 .option {
