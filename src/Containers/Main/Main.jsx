@@ -1,12 +1,17 @@
 import React from 'react';
 import webDesign from '../../assets/image/imac-1999636_1920.png';
 import Shopbtn from '../../Components/Shopbtn.jsx/Shopbtn';
+import mainStyle from './main.css';
 const Main = () => {
   return (
     <div>
-      <img src={webDesign} style={{ width: '100%' }} />
+      <h1 className='titleAnimation'>Evolve of software</h1>
+      <img
+        src={webDesign}
+        style={{ width: '100%' }}
+        className='backgroundAnimatation'
+      />
       <Shopbtn />
-      <h1>Evolve of software</h1>
     </div>
   );
 };
