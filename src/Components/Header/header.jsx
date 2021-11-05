@@ -38,38 +38,6 @@ const Header = () => {
                 Pricing
               </a>
             </li>
-            <li className='nav-item dropdown option'>
-              <a
-                className='nav-link dropdown-toggle'
-                href='#'
-                id='navbarDropdownMenuLink'
-                role='button'
-                data-bs-toggle='dropdown'
-                aria-expanded='false'
-              >
-                More
-              </a>
-              <ul
-                className='dropdown-menu'
-                aria-labelledby='navbarDropdownMenuLink'
-              >
-                <li>
-                  <a className='dropdown-item' href='#'>
-                    Action
-                  </a>
-                </li>
-                <li>
-                  <a className='dropdown-item' href='#'>
-                    Another action
-                  </a>
-                </li>
-                <li>
-                  <a className='dropdown-item' href='#'>
-                    Something else here
-                  </a>
-                </li>
-              </ul>
-            </li>
           </ul>
         </div>
       </div>
