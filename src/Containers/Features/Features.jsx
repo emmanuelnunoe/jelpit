@@ -2,14 +2,19 @@ import React from 'react';
 import FeatureCard from '../../Components/FeatureCard/FeatureCard';
 const Features = (props) => {
   const features = [
-    { title: 'Quality', description: 'You get wat you want and better' },
+    {
+      title: 'Quality',
+      description:
+        'Your product will designed to satisfy software needs inside your business.',
+    },
     {
       title: 'Reliability',
-      description: 'Because you belive in us and our software',
+      description:
+        'Our main goal is to deliver you a software with minimum probability of failure in your specific work environment',
     },
     {
       title: 'Performance',
-      description: 'Software that use efficent your resources',
+      description: 'We know that you need a software can run fast and get wise use of your computer resources.',
     },
   ];
   return (
