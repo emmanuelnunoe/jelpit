@@ -3,23 +3,24 @@ import FeatureCard from '../../Components/FeatureCard/FeatureCard';
 const Features = (props) => {
   const features = [
     {
-      title: 'Quality',
+      title: 'Desarrollo web',
       description:
-        'Your product will designed to satisfy software needs inside your business.',
+        'Desarrollamos tu sitio desde cero o lo mejoramos, tambien te apoyamos en con el mantenimiento, siempre es bueno contar con alguien que te ayude con los temas de la web.',
     },
     {
-      title: 'Reliability',
+      title: 'Soporte tecnico',
       description:
-        'Our main goal is to deliver you a software with minimum probability of failure in your specific work environment',
+        'Si tu equipo presenta inconvenientes con la red, o el rendimiento no es el mismo que cuando lo compraste, quizas buscas un mantenimiento preventivo, u ocupas ayuda en algun tema relacionado con tecnologia.',
     },
     {
-      title: 'Performance',
-      description: 'We know that you need a software can run fast and get wise use of your computer resources.',
+      title: 'Asesoria',
+      description:
+        'Seguro quieres tomar la mejor decision antes de hacer una inversion en un equipo de computo u ofrecer tu producto o servico, o tal vez buscas la opinion de un experto.',
     },
   ];
   return (
     <div>
-      <h3>Features</h3>
+      <h3>Servicios</h3>
       <div className='row'>
         <i class='bi bi-bag-check-fill'></i>
         <i class='bi bi-cart-check'></i>

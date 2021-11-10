@@ -25,17 +25,17 @@ const Header = () => {
                 aria-current='page'
                 href='#'
               >
-                Home
+                Inicio
               </a>
             </li>
             <li className='nav-item option'>
               <a className='nav-link' href='#'>
-                Features
+                Servicios
               </a>
             </li>
             <li className='nav-item option'>
               <a className='nav-link' href='#'>
-                Pricing
+                Contacto
               </a>
             </li>
           </ul>
