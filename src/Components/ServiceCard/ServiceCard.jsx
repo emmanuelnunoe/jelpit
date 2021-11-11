@@ -1,6 +1,6 @@
 import React from 'react';
 
-const FeatureCard = (props) => {
+const ServiceCard = (props) => {
   return (
     <div className='card col m-2'>
       <div className='card-body'>
@@ -11,4 +11,4 @@ const FeatureCard = (props) => {
   );
 };
 
-export default FeatureCard;
+export default ServiceCard;

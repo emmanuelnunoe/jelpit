@@ -1,7 +1,7 @@
 import React from 'react';
-import FeatureCard from '../../Components/FeatureCard/FeatureCard';
-const Features = (props) => {
-  const features = [
+import ServiceCard from '../../Components/ServiceCard/ServiceCard';
+const Services = (props) => {
+  const services = [
     {
       title: 'Desarrollo web',
       description:
@@ -24,16 +24,16 @@ const Features = (props) => {
       <div className='row'>
         <i class='bi bi-bag-check-fill'></i>
         <i class='bi bi-cart-check'></i>
-        {features.map((feature) => (
-          <FeatureCard
+        {services.map((service) => (
+          <ServiceCard
             className='col col-6'
-            title={feature.title}
-            description={feature.description}
-          ></FeatureCard>
+            title={service.title}
+            description={service.description}
+          ></ServiceCard>
         ))}
       </div>
     </div>
   );
 };
 
-export default Features;
+export default Services;
