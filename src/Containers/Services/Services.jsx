@@ -22,8 +22,6 @@ const Services = (props) => {
     <div>
       <h3>Servicios</h3>
       <div className='row'>
-        <i class='bi bi-bag-check-fill'></i>
-        <i class='bi bi-cart-check'></i>
         {services.map((service) => (
           <ServiceCard
             className='col col-6'
