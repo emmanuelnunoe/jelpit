@@ -3,19 +3,19 @@ import ServiceCard from '../../Components/ServiceCard/ServiceCard';
 const Services = (props) => {
   const services = [
     {
-      title: 'Desarrollo web',
+      title: 'Página Web.',
       description:
-        'Desarrollamos tu sitio desde cero o lo mejoramos, tambien te apoyamos en con el mantenimiento, siempre es bueno contar con alguien que te ayude con los temas de la web.',
+        'Creamos la presencia web de calidad para los clientes, acorde a los objetivos de la empresa.',
     },
     {
-      title: 'Soporte tecnico',
+      title: 'Actuaizacion de Página Web',
       description:
-        'Si tu equipo presenta inconvenientes con la red, o el rendimiento no es el mismo que cuando lo compraste, quizas buscas un mantenimiento preventivo, u ocupas ayuda en algun tema relacionado con tecnologia.',
+        'Ralizamos los cambios por ti para contar con un sitio actualizado.',
     },
     {
       title: 'Asesoria',
       description:
-        'Seguro quieres tomar la mejor decision antes de hacer una inversion en un equipo de computo u ofrecer tu producto o servico, o tal vez buscas la opinion de un experto.',
+        'Despejamos las dudas relacionadas con el sitio de tu empresa.',
     },
   ];
   return (

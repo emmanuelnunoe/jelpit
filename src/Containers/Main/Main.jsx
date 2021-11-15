@@ -5,7 +5,7 @@ import mainStyle from './main.css';
 const Main = () => {
   return (
     <div>
-      <h1 className='titleAnimation'>Servicio IT profesional</h1>
+      <h1 className='titleAnimation'>Servicio Web Profesional</h1>
       <img
         src={webDesign}
         style={{ width: '100%' }}
