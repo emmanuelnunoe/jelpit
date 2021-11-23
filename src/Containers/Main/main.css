@@ -1,0 +1,29 @@
+h1 {
+  color: rgb(179, 179, 179);
+}
+
+.titleAnimation {
+  animation-name: animateTitle;
+  animation-duration: 2s;
+  animation-iteration-count: 1;
+  animation-timing-function: ease-in-out;
+  position: relative;
+  top: 30%;
+  z-index: 0;
+  left: 0%;
+  opacity: 1;
+}
+
+@keyframes animateTitle {
+  0% {
+    z-index: 1;
+    left: -12%;
+    opacity: 0;
+  }
+  100% {
+    top: 30%;
+    z-index: 1;
+    left: 0%;
+    opacity: 1;
+  }
+}

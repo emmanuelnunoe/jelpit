@@ -4,7 +4,7 @@ const Shopbtn = () => {
   return (
     <div className='backgroundOfButton'>
       <button className='btn btn-lg btn-dark shopBtn'>
-        Create new
+        Solicitar servicio
       </button>
     </div>
   );
