@@ -1,6 +1,7 @@
 .shopBtn {
   position: relative;
   top: 10%;
+  border-radius:4%;
 }
 
 .backgroundOfButton {

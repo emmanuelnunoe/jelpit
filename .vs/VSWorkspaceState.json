@@ -1,10 +1,13 @@
 {
   "ExpandedNodes": [
     "",
+    "\\public",
     "\\src",
-    "\\src\\Components",
-    "\\src\\Components\\Footer"
+    "\\src\\assets",
+    "\\src\\assets\\image",
+    "\\src\\Containers",
+    "\\src\\Containers\\Main",
+    "\\src\\Containers\\WebDevelop"
   ],
-  "SelectedNode": "\\src\\Components\\Footer\\footer.css",
   "PreviewInSolutionExplorer": false
 }
