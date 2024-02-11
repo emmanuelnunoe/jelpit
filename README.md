@@ -1,8 +1,8 @@
 # Dependencies
-Yarn [https://yarnpkg.com/]
-NodeJs [https://nodejs.org/en]
-React [https://react.dev/]
-1st command to run after clonning:
+Yarn [https://yarnpkg.com/] \
+NodeJs [https://nodejs.org/en] \
+React [https://react.dev/] \
+1st command to run after clonning: \
 ### `yarn`
 
 # Getting Started with Create React App
