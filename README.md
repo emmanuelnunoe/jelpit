@@ -1,3 +1,10 @@
+# Dependencies
+Yarn [https://yarnpkg.com/] \
+NodeJs [https://nodejs.org/en] \
+React [https://react.dev/] \
+1st command to run after clonning:
+### `yarn`
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
