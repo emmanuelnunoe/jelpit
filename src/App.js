@@ -11,8 +11,8 @@ function App() {
       <Header />
       <Main />
       <Services />
-      <Contact/>
-      <Footer></Footer>
+      <Contact />
+      <Footer />
     </div>
   );
 }

@@ -17,7 +17,7 @@ const Main = () => {
           <div className='col-xs-12  col-lg-6 text-centre p-3'>
             <h1>Tu negocio digital</h1>
             <p>Incrementa las ventas, maneja tus pedidos, hazlo mejor y mas rapido, haz lo que tu decidas, las herramientas se adaptan a tu negocio.</p>
-            <a class='btn btn-dark white-txt' href='#'>Creemos el siguiente nivel</a>
+            <a class='btn btn-dark white-txt' href='#'>Construyamos el siguiente nivel</a>
           </div>
      
     </div>
